@@ -12,5 +12,7 @@ SAP-1 is a simple bus organised computer built entirely on breadboards using Log
 ## Progress
 - [x] ALU
 - [x] Clock
+- [x] Program Counter
 - [ ] Control logic
 - [ ] Instruction set & microcode
+
